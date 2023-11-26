@@ -8,7 +8,7 @@ Both journals span a period of 525 days.
 
 ### Code
 This project contains a single notebook, divided into three parts:
-1. Loading the data - loading the .csv datasets and and merging them into one.
+1. Loading the data - loading the .csv datasets and merging them into one.
 2. Preparing the data - creating functions that will process the data and convert it to the format needed for further visualization.
 3. Visualizing the data.
 
