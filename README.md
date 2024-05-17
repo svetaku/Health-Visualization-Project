@@ -16,3 +16,13 @@ This project contains a single notebook, divided into three parts:
 The resulting diagrams show the migraine dynamic over time as a plotline, while the periods are marked with color spans, with the timeline along the x axis and the headache intensity along the y axis.
 
 ![Sample diagram](diagram_example.png)
+
+## Usage
+- Clone the repository
+  ```sh
+  git clone https://github.com/svetaku/Health-Visualization-Project.git
+  cd Health-Visualization-Project
+- Install dependencies
+  ```sh
+  pip install -r requirements.txt
+- Run the notebook
